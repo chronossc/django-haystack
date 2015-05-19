@@ -8,7 +8,7 @@ from haystack.utils import loading
 
 
 __author__ = 'Daniel Lindsley'
-__version__ = (2, 3, 2)
+__version__ = (2, 3, 2, 'dev0')
 
 
 # Setup default logging.
